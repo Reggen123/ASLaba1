@@ -1,0 +1,16 @@
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.csproj.AssemblyReference.cache
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.AssemblyInfoInputs.cache
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.AssemblyInfo.cs
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.csproj.CoreCompileInputs.cache
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\bin\Debug\netcoreapp3.1\ASLaba1.exe
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\bin\Debug\netcoreapp3.1\ASLaba1.deps.json
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\bin\Debug\netcoreapp3.1\ASLaba1.runtimeconfig.json
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\bin\Debug\netcoreapp3.1\ASLaba1.runtimeconfig.dev.json
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\bin\Debug\netcoreapp3.1\ASLaba1.dll
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\bin\Debug\netcoreapp3.1\ASLaba1.pdb
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.dll
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.pdb
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.genruntimeconfig.cache
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\belin\source\repos\ASLaba1\ASLaba1\obj\Debug\netcoreapp3.1\ASLaba1.csproj.CopyComplete

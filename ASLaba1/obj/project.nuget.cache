@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6f2JehCqO0PcJdI1eaIsUdnMxh7lfi28xrXf8v5UWtlLl11sVRlJwyCjQlu/mAJ1n/0zsFujbxRD5l14HSK1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\belin\\source\\repos\\ASLaba1\\ASLaba1\\ASLaba1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belin\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
